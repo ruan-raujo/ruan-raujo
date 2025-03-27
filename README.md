@@ -108,3 +108,7 @@ Me chamo Ruan, tenho 21 anos e sou natural do Ceará . Estou cursando Sistema de
   />
 
 </p>
+
+<img src="https://raw.githubusercontent.com/ruan-raujo/ruan-raujo/output/snake.svg" alt="Snake animation" />
+
+###
