@@ -107,3 +107,7 @@ Me chamo Ruan, tenho 21 anos e sou natural do Ceará . Estou cursando Sistema de
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-raujo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+  <img src="https://raw.githubusercontent.com/ruan-raujo/ruan-raujo/output/snake.svg" alt="Snake animation" />
+
+###
+
