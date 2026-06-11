@@ -4,7 +4,7 @@
 
 **`Desenvolvedor full stack em formação! 🚀`**
 
-Me chamo Ruan, tenho 21 anos, sou homossexual e sou natural do Ceará . Estou cursando Sistema de Informação na Universidade Federal do Ceará (UFC)
+Me chamo Ruan, tenho 21 anos, sou natural do Ceará . Estou cursando Sistema de Informação na Universidade Federal do Ceará (UFC)
 
  
 
